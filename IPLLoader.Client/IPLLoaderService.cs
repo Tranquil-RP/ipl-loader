@@ -156,7 +156,7 @@ namespace Addemod.IPLLoader.Client {
 			API.RequestIpl("CS3_07_MPGates");
 
 			// Pillbox hospital: 356.8, -590.1, 43.3
-			API.RequestIpl("RC12B_Default");
+			// API.RequestIpl("RC12B_Default"); Removed due to addon maps for TranquilRP.
 			// API.RequestIpl("RC12B_Fixed");
 
 			// Josh's house: -1117.163, 303.1, 66.522
@@ -201,7 +201,7 @@ namespace Addemod.IPLLoader.Client {
 			API.RequestIpl("hei_yacht_heist_Lounge");
 
 			// Bahama Mamas: -1388, -618.420, 30.820
-			//API.RequestIpl("hei_sm_16_interior_v_bahama_milo_");
+			API.RequestIpl("hei_sm_16_interior_v_bahama_milo_");
 
 			// Red Carpet: 300.593, 199.759, 104.378
 			//API.RequestIpl("redCarpet");
@@ -248,48 +248,48 @@ namespace Addemod.IPLLoader.Client {
 			// Lom Bank: -1579.756, -565.066, 108.523
 
 			// API.RequestIpl("ex_sm_13_office_01a");// Old Spice: Warm
-			API.RequestIpl("ex_sm_13_office_01b");// Old Spice: Classical
-												  // API.RequestIpl("ex_sm_13_office_01c");// Old Spice: Vintage
-												  // API.RequestIpl("ex_sm_13_office_02a");// Executive: Contrast
-												  // API.RequestIpl("ex_sm_13_office_02b");// Executive: Rich
-												  // API.RequestIpl("ex_sm_13_office_02c");// Executive: Cool
-												  // API.RequestIpl("ex_sm_13_office_03a");// Power Broker: Ice
-												  // API.RequestIpl("ex_sm_13_office_03b");// Power Broker: Conservative
-												  // API.RequestIpl("ex_sm_13_office_03c");// Power Broker: Polished
+			API.RequestIpl("ex_sm_13_office_01b"); // Old Spice: Classical
+			// API.RequestIpl("ex_sm_13_office_01c");// Old Spice: Vintage
+			// API.RequestIpl("ex_sm_13_office_02a");// Executive: Contrast
+			// API.RequestIpl("ex_sm_13_office_02b");// Executive: Rich
+			// API.RequestIpl("ex_sm_13_office_02c");// Executive: Cool
+			// API.RequestIpl("ex_sm_13_office_03a");// Power Broker: Ice
+			// API.RequestIpl("ex_sm_13_office_03b");// Power Broker: Conservative
+			// API.RequestIpl("ex_sm_13_office_03c");// Power Broker: Polished
 
 			// Maze Bank West: -1392.667, -480.474, 72.042
 
 			// API.RequestIpl("ex_sm_15_office_01a");// Old Spice: Warm
 			API.RequestIpl("ex_sm_15_office_01b");// Old Spice: Classical
-												  // API.RequestIpl("ex_sm_15_office_01c");// Old Spice: Vintage
-												  // API.RequestIpl("ex_sm_15_office_02b");// Executive: Rich
-												  // API.RequestIpl("ex_sm_15_office_02c");// Executive: Cool
-												  // API.RequestIpl("ex_sm_15_office_02a");// Executive: Contrast
-												  // API.RequestIpl("ex_sm_15_office_03a");// Power Broker: Ice
-												  // API.RequestIpl("ex_sm_15_office_03b");// Power Broker: Convservative
-												  // API.RequestIpl("ex_sm_15_office_03c");// Power Broker: Polished
+			// API.RequestIpl("ex_sm_15_office_01c");// Old Spice: Vintage
+			// API.RequestIpl("ex_sm_15_office_02b");// Executive: Rich
+			// API.RequestIpl("ex_sm_15_office_02c");// Executive: Cool
+			// API.RequestIpl("ex_sm_15_office_02a");// Executive: Contrast
+			// API.RequestIpl("ex_sm_15_office_03a");// Power Broker: Ice
+			// API.RequestIpl("ex_sm_15_office_03b");// Power Broker: Convservative
+			// API.RequestIpl("ex_sm_15_office_03c");// Power Broker: Polished
 
 			// Apartment 1: -786.866, 315.764, 217.638
 
 			API.RequestIpl("apa_v_mp_h_01_a");// Modern
-											  // API.RequestIpl("apa_v_mp_h_02_a");// Mody
-											  // API.RequestIpl("apa_v_mp_h_03_a");// Vibrant
-											  // API.RequestIpl("apa_v_mp_h_04_a");// Sharp
-											  // API.RequestIpl("apa_v_mp_h_05_a");// Monochrome
-											  // API.RequestIpl("apa_v_mp_h_06_a");// Seductive
-											  // API.RequestIpl("apa_v_mp_h_07_a");// Regal
-											  // API.RequestIpl("apa_v_mp_h_08_a");// Aqua
+			// API.RequestIpl("apa_v_mp_h_02_a");// Mody
+			// API.RequestIpl("apa_v_mp_h_03_a");// Vibrant
+			// API.RequestIpl("apa_v_mp_h_04_a");// Sharp
+			// API.RequestIpl("apa_v_mp_h_05_a");// Monochrome
+			// API.RequestIpl("apa_v_mp_h_06_a");// Seductive
+			// API.RequestIpl("apa_v_mp_h_07_a");// Regal
+			// API.RequestIpl("apa_v_mp_h_08_a");// Aqua
 
 			// Apartment 2: -786.956, 315.622, 187.913
 
 			// API.RequestIpl("apa_v_mp_h_01_c");// Modern
 			API.RequestIpl("apa_v_mp_h_02_c");// Mody
-											  // API.RequestIpl("apa_v_mp_h_03_c");// Vibrant
-											  // API.RequestIpl("apa_v_mp_h_04_c");// Sharp
-											  // API.RequestIpl("apa_v_mp_h_05_c");// Monochrome
-											  // API.RequestIpl("apa_v_mp_h_06_c");// Seductive
-											  // API.RequestIpl("apa_v_mp_h_07_c");// Regal
-											  // API.RequestIpl("apa_v_mp_h_08_c");// Aqua
+			// API.RequestIpl("apa_v_mp_h_03_c");// Vibrant
+			// API.RequestIpl("apa_v_mp_h_04_c");// Sharp
+			// API.RequestIpl("apa_v_mp_h_05_c");// Monochrome
+			// API.RequestIpl("apa_v_mp_h_06_c");// Seductive
+			// API.RequestIpl("apa_v_mp_h_07_c");// Regal
+			// API.RequestIpl("apa_v_mp_h_08_c");// Aqua
 
 			// Apartment 3: -774.012, 342.042, 196.686
 
@@ -297,10 +297,10 @@ namespace Addemod.IPLLoader.Client {
 			// API.RequestIpl("apa_v_mp_h_02_b");// Mody
 			// API.RequestIpl("apa_v_mp_h_03_b");// Vibrant
 			API.RequestIpl("apa_v_mp_h_04_b");// Sharp
-											  // API.RequestIpl("apa_v_mp_h_05_b");// Monochrome
-											  // API.RequestIpl("apa_v_mp_h_06_b");// Seductive
-											  // API.RequestIpl("apa_v_mp_h_07_b");// Regal
-											  // API.RequestIpl("apa_v_mp_h_08_b");// Aqua
+			// API.RequestIpl("apa_v_mp_h_05_b");// Monochrome
+			// API.RequestIpl("apa_v_mp_h_06_b");// Seductive
+			// API.RequestIpl("apa_v_mp_h_07_b");// Regal
+			// API.RequestIpl("apa_v_mp_h_08_b");// Aqua
 
 			// Bunkers, Biker clubhouses &Warehouses
 
